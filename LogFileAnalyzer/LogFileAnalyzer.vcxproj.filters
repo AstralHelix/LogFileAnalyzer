@@ -14,32 +14,4 @@
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="LogEntry.cpp">
-      <Filter>src</Filter>
-    </ClCompile>
-    <ClCompile Include="LogParser.cpp">
-      <Filter>src</Filter>
-    </ClCompile>
-    <ClCompile Include="LogAnalyzer.cpp">
-      <Filter>src</Filter>
-    </ClCompile>
-    <ClCompile Include="ReportGenerator.cpp">
-      <Filter>src</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="ReportGenerator.h">
-      <Filter>src</Filter>
-    </ClInclude>
-    <ClInclude Include="LogAnalyzer.h">
-      <Filter>src</Filter>
-    </ClInclude>
-    <ClInclude Include="LogEntry.h">
-      <Filter>src</Filter>
-    </ClInclude>
-    <ClInclude Include="LogParser.h">
-      <Filter>src</Filter>
-    </ClInclude>
-  </ItemGroup>
 </Project>

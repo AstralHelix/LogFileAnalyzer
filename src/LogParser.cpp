@@ -1,2 +1,1 @@
-
 #include "LogParser.h"
