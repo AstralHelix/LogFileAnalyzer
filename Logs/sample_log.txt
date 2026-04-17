@@ -1,0 +1,21 @@
+[2026-04-16 08:12:01] INFO: Server starting up
+[2026-04-16 08:12:02] DEBUG: Loading configuration file
+[2026-04-16 08:12:03] INFO: Configuration loaded successfully
+[2026-04-16 08:12:10] WARNING: Disk space running low
+[2026-04-16 08:12:15] ERROR: Failed to connect to database
+[2026-04-16 08:12:16] INFO: Retrying database connection
+[2026-04-16 08:12:17] ERROR: Failed to connect to database
+[2026-04-16 08:12:20] INFO: Switching to backup database
+[2026-04-16 08:12:21] INFO: Backup database connection established
+[2026-04-16 08:12:30] DEBUG: User login attempt detected
+[2026-04-16 08:12:31] INFO: User 'admin' logged in
+[2026-04-16 08:12:40] WARNING: High memory usage detected
+[2026-04-16 08:12:55] ERROR: Timeout while processing request
+[2026-04-16 08:13:10] INFO: Request processed successfully
+[2026-04-16 08:13:20] DEBUG: Cache refreshed
+
+# Malformed lines for testing:
+[2026-04-16 08:13:30] INFO Missing colon separator
+2026-04-16 08:13:31 ERROR: Missing brackets
+[2026-04-16 08:13:32] : Missing log level
+[2026-04-16 08:13:33] INFO:
