@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="LogFileAnalyzer/LogFileAnalyzer.vcxproj" />
+  <Project Path="LogFileAnalyzer/LogFileAnalyzer.vcxproj" Id="cb3e306d-542e-49c3-8c2a-2f5df7d327bd" />
 </Solution>

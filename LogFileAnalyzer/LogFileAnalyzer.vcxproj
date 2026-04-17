@@ -127,7 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="LogAnalyzer.cpp" />
+    <ClCompile Include="LogEntry.cpp" />
     <ClCompile Include="LogFileAnalyzer.cpp" />
+    <ClCompile Include="LogParser.cpp" />
+    <ClCompile Include="ReportGenerator.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LogAnalyzer.h" />
+    <ClInclude Include="LogEntry.h" />
+    <ClInclude Include="LogParser.h" />
+    <ClInclude Include="ReportGenerator.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
